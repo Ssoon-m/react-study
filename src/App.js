@@ -1,15 +1,16 @@
-import Todo from './components/Todo'
-import Modal from './components/Modal';
-import Backdrop from './components/Backdrop';
+import { Route, Routes } from 'react-router-dom';
+import AllMeetupsPage from './pages/AllMeetups';
+import FavoritesPage from './pages/Favorites';
+import NewMeetupPage from './pages/NewMeetup';
 
 function App() {
-  return <div>
-    <h1>리액트 연습</h1>
-    <Todo text='리액트 props1' title="Add" />
-    <Todo text='리액 props2' title="Delete" />
-    
-  </div>;
-
+  return (
+    <Routes>
+      <Route path="/" element={<AllMeetupsPage />} />
+      <Route path="/new-meetup" element={<NewMeetupPage />} />
+      <Route path="/favorites" element={<FavoritesPage />} />
+    </Routes>
+  );
 }
 
 export default App;
