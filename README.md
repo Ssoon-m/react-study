@@ -1,6 +1,6 @@
 # React Study
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fspectrumcetb%2Fbeginner-s-guide-to-react-js-15lm&psig=AOvVaw2_dvnN8T-KKCqtgLhaHDcK&ust=1647170040247000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODU0tq4wPYCFQAAAAAdAAAAABAD" ></img><br/>
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--50wZvNu6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/1wwdyw5de8avrdkgtz5n.png"></img> <br/>
 
 ## 프로젝트 목적
 
